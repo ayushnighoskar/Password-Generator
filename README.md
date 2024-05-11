@@ -12,22 +12,22 @@ This is a simple password generator website created using HTML, CSS, and JavaScr
 
 ## Features:
 
-1.Generate strong and secure passwords
-2.Customize password length
-3.Include or exclude uppercase letters, lowercase letters, numbers, and special characters
-4.Copy generated passwords to clipboard with one click
+- Generate strong and secure passwords
+- Customize password length
+- Include or exclude uppercase letters, lowercase letters, numbers, and special characters
+- Copy generated passwords to clipboard with one click
 
 ## Live Demo:
 
-Click-here(https://an-password.netlify.app/)
+[Click-here](https://an-password.netlify.app/)
 
 ## How to Use:
 
-1.Open the live demo link in your web browser.
-2.Choose your desired password length by adjusting the slider.
-3.Check or uncheck options to include or exclude uppercase letters, lowercase letters, numbers, and special characters.
-4.Click the "Generate Password" button to generate a password based on your preferences.
-5.Click the "Copy to Clipboard" button to copy the generated password to your clipboard.
+- Open the live demo link in your web browser.
+- Choose your desired password length by adjusting the slider.
+- Check or uncheck options to include or exclude uppercase letters, lowercase letters, numbers, and special characters.
+- Click the "Generate Password" button to generate a password based on your preferences.
+- Click the "Copy to Clipboard" button to copy the generated password to your clipboard.
 
 ## Screenshot:
 
