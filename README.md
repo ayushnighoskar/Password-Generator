@@ -1,8 +1,8 @@
-# Password-Generator
+# Password-Generator:
 
 This is a simple password generator website created using HTML, CSS, and JavaScript. It allows users to generate strong and secure passwords with various customizable options.
 
-## Tech-Stack-
+## Tech-Stack:
 
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
